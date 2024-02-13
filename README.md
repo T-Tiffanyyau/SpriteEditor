@@ -4,7 +4,7 @@
 Sprite Editor is an innovative tool designed for creating and editing pixel art. 
 The program offers a range of features to enhance the sprite creation experience.
 
-Introduction video: 
+Introduction video: https://github.com/T-Tiffanyyau/SpriteEditor/blob/main/IntroductionVideo.mp4
 
 ## Installation
 1. Download Qt Creator
