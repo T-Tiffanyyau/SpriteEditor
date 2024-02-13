@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/eraserIcon.jpg</file>
+        <file>images/penToolIcon.jpg</file>
+        <file>images/selectIcon.jpg</file>
+        <file>images/bucketFillIcon.jpg</file>
+    </qresource>
+</RCC>
